@@ -1,0 +1,2 @@
+# spottySlack
+SpotifySlack Channel Integration
